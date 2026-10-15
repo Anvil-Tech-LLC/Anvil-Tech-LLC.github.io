@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Anvil Tech">
+  <rect width="64" height="64" rx="14" fill="#1d2433"/>
+  <path fill="#d95a20" d="M5 22c4-3 9-4 14-4h33v8c-5 1-9 4-11 8l4 8h4v6H15v-6h4l4-8c-3-4-8-7-14-8-2 0-3-2-4-4z"/>
+</svg>
