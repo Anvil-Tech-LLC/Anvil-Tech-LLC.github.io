@@ -168,6 +168,20 @@ h3 {
   filter: brightness(1.06);
 }
 
+/* Buttons and links side by side; what wraps starts at the left edge. */
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  margin-top: 8px;
+}
+
+.actions .btn,
+.actions .more {
+  margin: 0;
+}
+
 .more {
   display: inline-block;
   margin: 8px 0 0 16px;
